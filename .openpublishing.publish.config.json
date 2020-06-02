@@ -49,5 +49,6 @@
   "need_generate_pdf_url_template": false,
   "docs_build_engine": {
     "name": "docfx_v3"
+    "version": "3.0.0-prod-202005250805"
   }
 }
